@@ -1,5 +1,5 @@
 {
-  "name": "msg-91-sms",
+  "name": "sms-msg91",
   "version": "1.0.0",
   "description": "This is the smallest package to send sms via msg91",
   "main": "index.js",

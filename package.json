@@ -1,0 +1,22 @@
+{
+  "name": "msg-91-sms",
+  "version": "1.0.0",
+  "description": "This is the smallest package to send sms via msg91",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "msg-91-sms"
+  },
+  "keywords": [
+    "SMS",
+    "MSG91",
+    "Message",
+    "Unicode",
+    "SMS"
+  ],
+  "author": "Amit Chauhan",
+  "license": "ISC"
+}

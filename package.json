@@ -1,7 +1,7 @@
 {
   "name": "sms-msg91",
-  "version": "1.0.1",
-  "description": "This is the smallest package to send sms via msg91",
+  "version": "1.0.2",
+  "description": "This is the smallest package to send sms via msg91. In this package you can send one sms or multiple sms by providing data objects in array.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
